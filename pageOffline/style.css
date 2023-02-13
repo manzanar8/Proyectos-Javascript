@@ -1,0 +1,74 @@
+/*
+ * Created on 19/1/2023
+ *
+ * Copyright (c) Ana Manzanor
+ *
+ * Description: Proyectos Básicos
+ *
+ * By: Ana Manzano 
+ */
+
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@300&display=swap');
+.global {
+    background: #f7f7f7;
+}
+
+.img {
+    max-width: 70% !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    display: block !important;
+}
+
+.btn-home {
+    background: #383042 !important;
+    border-color: #4f415b !important;
+    width: 80%;
+}
+
+.mt {
+    margin-top: 5% !important;
+}
+
+.onlineClass {
+    color: green;
+    font-size: 55px;
+}
+
+.offlineClass {
+    color: rgb(161, 28, 28);
+    font-size: 55px;
+}
+
+#body {
+    font-size: 25px;
+}
+
+#sub {
+    font-size: 18px;
+    font-style: italic;
+}
+
+.display-none {
+    display: none;
+}
+
+.display-block {
+    display: block;
+}
+
+.loading {
+    text-align: center;
+    color: #30385a;
+}
+
+.loading i {
+    font-size: 30px;
+    margin: 10px;
+}
+
+@media (max-width: 768px) {
+    .img {
+        width: 70% !important;
+    }
+}

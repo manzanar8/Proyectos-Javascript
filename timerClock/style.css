@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Aldrich&display=swap');
+html,
+body {
+    margin: 0;
+    background-color: #000000;
+    font-family: 'Aldrich', sans-serif;
+}
+
+.time {
+    color: white;
+    height: 100vh;
+    font-size: 60px;
+    display: none;
+    justify-content: center;
+    align-items: center;
+}
+
+#hours,
+#minutes,
+#seconds {
+    border: 1px solid red;
+    background: red;
+    border-radius: 5px;
+    padding: 8px;
+    width: 90px;
+    text-align: center;
+}

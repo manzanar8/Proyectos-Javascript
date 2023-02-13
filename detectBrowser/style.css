@@ -1,0 +1,34 @@
+html,
+body {
+    margin: 0;
+    background-color: #FFFFFF;
+    font-family: 'Aldrich', sans-serif;
+}
+
+.browsers {
+    display: flex;
+    height: 70vh;
+    font-size: 60px;
+    justify-content: center;
+    align-items: center;
+}
+
+.title {
+    text-align: center;
+    font-size: 45px;
+    color: #2dad3d;
+    margin: 0;
+}
+
+.browsers div {
+    padding: 10px;
+}
+
+.used {
+    color: #1ac228;
+    font-size: 80px;
+}
+
+.no-used {
+    color: #a1a1a1;
+}
