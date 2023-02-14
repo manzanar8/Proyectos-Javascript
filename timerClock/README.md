@@ -21,7 +21,7 @@ Se agregan imagenes de ejemplo
 
 ### Ejemplo
 
-![alt tag](https://github.com/manzanar8/Proyectos_Basicos/blob/main/Proyectos/timerClock/clock.JPG?raw=true) 
+![alt tag](https://github.com/manzanar8/Proyectos-Javascript/blob/main/Proyectos/timerClock/clock.JPG?raw=true) 
 
 
 ## Autores ✒️
