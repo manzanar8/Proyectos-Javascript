@@ -16,11 +16,13 @@ Descarga y ejecuta el archivo index.html
 
 ### Nota
 
-Aún espero ir poblandolo de mas "cards", para práctica con JS, por el momento solo hice esas cuatro cards, donde una es el ejemplo de una gráfica con Chartjs(CDN) y la implementación del consumo de un endpoint(https://jsonplaceholder.typicode.com/) y mostrarlo en un formato de tabla, y los otros 2 de operaciones básicas en js.
+Aún espero ir poblandolo de mas "cards", para práctica con JS, por el momento solo hice esas cards, donde una es el ejemplo de una gráfica con Chartjs(CDN) y la implementación del consumo de un endpoint(https://jsonplaceholder.typicode.com/) y mostrarlo en un formato de tabla, un card donde buscas por ID y lanzas la peticion con un edpoint de **jsonplacelholder** , un card que suma 2 números y un card que obtiene los números ingresados de una cadena.
 
-Se agregan imagenes de ejemplo
+Se agregan imágenes de ejemplo
 
 ### Ejemplo 
+
+![alt tag](https://github.com/manzanar8/Proyectos_Basicos/blob/main/Proyectos/pageError/notFound_full.png?raw=true) 
 
 
 ## Autores ✒️
