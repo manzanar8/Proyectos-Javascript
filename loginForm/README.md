@@ -20,9 +20,9 @@ Se agregan imagenes de ejemplo
 
 ### Ejemplo 
 
-![alt tag](https://github.com/manzanar8/Proyectos_Basicos/blob/main/loginForm/Login%20Simple.JPG?raw=true) 
+![alt tag](https://github.com/manzanar8/Proyectos-Javascript/blob/main/loginForm/Login%20Simple.JPG?raw=true) 
 
-![alt tag](https://github.com/manzanar8/Proyectos_Basicos/blob/main/loginForm/Login%20Simple2.JPG?raw=true)
+![alt tag](https://github.com/manzanar8/Proyectos-Javascript/blob/main/loginForm/Login%20Simple2.JPG?raw=true)
 
 ## Autores ✒️
 
