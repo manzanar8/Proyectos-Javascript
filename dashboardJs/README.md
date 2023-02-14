@@ -22,7 +22,7 @@ Se agregan imágenes de ejemplo
 
 ### Ejemplo 
 
-![alt tag](https://github.com/manzanar8/Proyectos-Javascript/blob/dashboardJs/images/cards.png?raw=true) 
+![alt tag](https://github.com/manzanar8/Proyectos-Javascript/blob/main/dashboardJs/images/cards.png?raw=true) 
 
 
 ## Autores ✒️
