@@ -20,11 +20,11 @@ Se agregan imagenes de ejemplo
 
 ### Ejemplo 
 + Verificando estatus
-![alt tag](https://github.com/manzanar8/Proyectos_Basicos/blob/main/Proyectos/pageOffline/images/check.jpg?raw=true) 
+![alt tag](https://github.com/manzanar8/Proyectos-Javascript/blob/main/Proyectos/pageOffline/images/check.jpg?raw=true) 
 + Estatus Online
-![alt tag](https://github.com/manzanar8/Proyectos_Basicos/blob/main/Proyectos/pageOffline/images/online.jpg?raw=true)
+![alt tag](https://github.com/manzanar8/Proyectos-Javascript/blob/main/Proyectos/pageOffline/images/online.jpg?raw=true)
 + Estatus Offline
-![alt tag](https://github.com/manzanar8/Proyectos_Basicos/blob/main/Proyectos/pageOffline/images/offline.jpg?raw=true)
+![alt tag](https://github.com/manzanar8/Proyectos-Javascript/blob/main/Proyectos/pageOffline/images/offline.jpg?raw=true)
 
 ## Autores ✒️
 
