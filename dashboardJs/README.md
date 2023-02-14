@@ -22,7 +22,7 @@ Se agregan imágenes de ejemplo
 
 ### Ejemplo 
 
-![alt tag](https://github.com/manzanar8/Proyectos_Basicos/blob/main/Proyectos/pageError/notFound_full.png?raw=true) 
+![alt tag](https://github.com/manzanar8/Proyectos-Javascript/blob/dashboardJs/images/cards.png?raw=true) 
 
 
 ## Autores ✒️
