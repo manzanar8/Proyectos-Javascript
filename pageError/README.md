@@ -20,9 +20,9 @@ Se agregan imagenes de ejemplo
 
 ### Ejemplo 
 
-![alt tag](https://github.com/manzanar8/Proyectos-Javascript/blob/main/Proyectos/pageError/notFound_full.png?raw=true) 
+![alt tag](https://github.com/manzanar8/Proyectos-Javascript/blob/main/pageError/notFound_full.png?raw=true) 
 
-![alt tag](https://github.com/manzanar8/Proyectos-Javascript/blob/main/Proyectos/pageError/notFound_mobile1.png?raw=true)
+![alt tag](https://github.com/manzanar8/Proyectos-Javascript/blob/main/pageError/notFound_mobile1.png?raw=true)
 
 ## Autores ✒️
 
