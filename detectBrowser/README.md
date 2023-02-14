@@ -22,9 +22,9 @@ Se agregan imagenes de ejemplo
 
 ### Ejemplos
 
-![alt tag](https://github.com/manzanar8/Proyectos_Basicos/blob/main/Proyectos/detectBrowser/Android.JPG?raw=true)
-![alt tag](https://github.com/manzanar8/Proyectos_Basicos/blob/main/Proyectos/detectBrowser/Explorer.JPG?raw=true)
-![alt tag](https://github.com/manzanar8/Proyectos_Basicos/blob/main/Proyectos/detectBrowser/Opera.JPG?raw=true)
+![alt tag](https://github.com/manzanar8/Proyectos-Javascript/blob/main/detectBrowser/Android.JPG?raw=true)
+![alt tag](https://github.com/manzanar8/Proyectos-Javascript/blob/main/detectBrowser/Explorer.JPG?raw=true)
+![alt tag](https://github.com/manzanar8/Proyectos-Javascript/blob/main/detectBrowser/Opera.JPG?raw=true)
 
 ## Autores ✒️
 
